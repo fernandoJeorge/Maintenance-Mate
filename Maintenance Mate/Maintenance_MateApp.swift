@@ -11,7 +11,7 @@ import SwiftUI
 struct Maintenance_MateApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MainView()
         }
     }
 }
